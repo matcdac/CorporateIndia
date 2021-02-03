@@ -6,3 +6,10 @@ http://reports.mca.gov.in/Reports/MasterDataExcels/company_master_data_mar_2015_
 
 http://www.mca.gov.in/Ministry/pdf/West_Bengal_2016.xlsx
 
+
+Code Description
+
+http://mospi.nic.in/sites/default/files/main_menu/national_industrial_classification/nic_2004_struc_2digit.pdf
+
+http://mospi.nic.in/sites/default/files/main_menu/national_industrial_classification/nic_2004_struc_detail.pdf
+
