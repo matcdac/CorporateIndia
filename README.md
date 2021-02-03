@@ -6,4 +6,6 @@
 
 [5 Digit](http://mospi.nic.in/sites/default/files/main_menu/national_industrial_classification/nic_2004_struc_detail.pdf)
 
-[More](http://mospi.nic.in/classification/national-industrial-classification/national-industrial-classification-2004)
+[Explanation](http://mospi.nic.in/sites/default/files/main_menu/national_industrial_classification/nic_2004_exp_note.pdf)
+
+[More..](http://mospi.nic.in/classification/national-industrial-classification/national-industrial-classification-2004)
